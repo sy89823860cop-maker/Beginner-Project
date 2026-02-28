@@ -1,4 +1,4 @@
-#Roller Coster Ticket System
+#Roller Coaster Ticket System
 print("Welcome to the rollercoaster ride! ")
 Name = input("Please Enter your name : ")
 height=int(input("Please enter you height in cm : "))
@@ -27,3 +27,4 @@ if height>=120:
 else :
 
      print("Sorry you cannot have ride this time ")
+
